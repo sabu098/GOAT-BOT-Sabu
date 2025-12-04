@@ -12,21 +12,20 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "authorName": "rexy",
-  "OWNER": "rexy",
-  "AGE": "15+",
+  "authorName": "sabu",
+  "OWNER": "sabu",
+  "AGE": "17+",
   "SEX": "MALE",
   "nickNameBot": "goat bot",
   "prefix": "-",
-  "adminPrefix": "#",
+  "adminPrefix": "!",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "main_admin": "",
   "main_admins": [
-    "100007806468843",
-    "100003843460849"
+    "61566551318414"
   ],
   "premium": {
     "users": [
@@ -184,3 +183,4 @@
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
 }
+
